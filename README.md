@@ -6,8 +6,8 @@
 
 ---------------------------
 ## 01 - Poster Design
-![Poster Design](01_poster_design/assets/01_poster.gif)
+![Poster Design](_assets/01_poster.gif)
 
-Design Mockup by [starline/freepik](http://www.freepik.com")  |  Responsive: ✔️
+Design Mockup by [starline/freepik](http://www.freepik.com)  |  Responsive: ✔️
 
 ----------------------------
