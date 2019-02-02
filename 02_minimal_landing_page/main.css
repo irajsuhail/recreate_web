@@ -1,0 +1,77 @@
+/*-- Global --*/
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    vertical-align: baseline;
+    font-family: arial, sans serif;
+
+}
+
+/*-- Webpage --*/
+
+h1 {
+    margin: 8px 0px;
+    text-transform: uppercase;
+    color: #0D27FF;
+}
+body {
+    background: url("assets/background_header.png") top right no-repeat;
+}
+
+.logo {
+    float: left;
+    color: #0D27FF;
+
+}
+.free-btn {
+    display: inline-block;
+    font-size: 15px;
+    padding: 5px 16px;
+    background-color: #0D27FF;
+    border-radius: 15px;
+    color: white;
+    margin-left: 5px;
+}
+
+header h2 {
+    vertical-align: middle;
+}
+header {
+    height: 60px;
+    width: 90vw;
+    margin: 30px auto;
+    vertical-align: middle;
+}
+
+nav {
+    float: right;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    vertical-align: middle;
+}
+
+main {
+    margin: 0px 0px 0px 5%;
+    width: 38%;
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    transform: translateY(-50%)
+}
+
+.signup-btn {
+    padding: 10px 20px;
+    border: 2px solid #0D27FF;
+    border-radius: 20px;
+    display: block;
+    margin: 12px 0px;
+    text-decoration: none;
+    color: #0D27FF;
+    width: initial;
+    width: 160px;
+    text-align: center;
+}
