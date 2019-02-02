@@ -8,6 +8,11 @@
 ## 01 - Poster Design
 ![Poster Design](_assets/01_poster.gif)
 
-Design Mockup by [starline/freepik](http://www.freepik.com)  |  Responsive: ✔️
+Mockup design by [starline/freepik](http://www.freepik.com)  |  Responsive: ✔️
 
 ----------------------------
+
+## 02 - Minimal landing page
+![Minimal landing page](_assets/02_minimal_landing_page.gif)
+
+Mockup design by [Caler Edwards](http://www.caleredwards.com)  |  Responsive: ❎
