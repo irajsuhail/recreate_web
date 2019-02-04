@@ -11,8 +11,13 @@
 Mockup design by [starline/freepik](http://www.freepik.com)  |  Responsive: ✔️
 
 ----------------------------
-
 ## 02 - Minimal landing page
 ![Minimal landing page](_assets/02_minimal_landing_page.gif)
+
+Mockup design by [Caler Edwards](http://www.caleredwards.com)  |  Responsive: ❎
+
+----------------------------
+## 03 - Business landing page
+![Minimal landing page](_assets/03_business_landing_page.gif)
 
 Mockup design by [Caler Edwards](http://www.caleredwards.com)  |  Responsive: ❎
