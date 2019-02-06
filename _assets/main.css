@@ -1,54 +1,53 @@
-@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe');
+@import url("https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe");
 
 body {
-    margin: 0%;
-    padding: 0%;
-    height: 100vh;
-    width: 100vw;
-    font-family: 'ZCOOL KuaiLe', cursive;
-    font-size: 30px;
-    color: white;
-    overflow: hidden;
-    vertical-align: baseline;
-    background: linear-gradient(to bottom right, #38226a, #714091);
+  margin: 0%;
+  padding: 0%;
+  height: 100vh;
+  width: 100vw;
+  font-family: "ZCOOL KuaiLe", cursive;
+  font-size: 30px;
+  color: white;
+  overflow: hidden;
+  vertical-align: baseline;
+  background: linear-gradient(to bottom right, #38226a, #714091);
 }
 
 .container {
-    width: 80%;
-    margin: 20vh auto;
-    display: flex;
+  width: 80%;
+  margin: 20vh auto;
+  display: flex;
 }
 
 .text,
 .img {
-    flex: 1 1 50%;
-    justify-self: center;
-    align-self: center;
-
+  flex: 1 1 50%;
+  justify-self: center;
+  align-self: center;
 }
 
 .img img {
-    height: 100%;
-    width: 100%;
+  height: 100%;
+  width: 100%;
 }
 
 .text h1 {
-    margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
-.text p{
-    margin: 0px 0px 42px 0px;
+.text p {
+  margin: 0px 0px 42px 0px;
 }
 
 .text a {
-    color: #38226a;
-    text-decoration: none;
-    padding: 15px 30px;
-    background-color: white;
-    border-radius: 15px;
+  color: #38226a;
+  text-decoration: none;
+  padding: 15px 30px;
+  background-color: white;
+  border-radius: 15px;
 }
 
 .text a:hover {
-    padding: 20px 40px;
-    transition: ease-in 0.3s;
+  padding: 20px 40px;
+  transition: ease-in 0.3s;
 }
