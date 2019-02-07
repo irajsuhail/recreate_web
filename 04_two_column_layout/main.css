@@ -1,0 +1,92 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  background: url("assets/bg_01.png") no-repeat top;
+  background-size: cover;
+  overflow: hidden;
+}
+
+header {
+  width: 90%;
+  margin: 20px auto;
+}
+
+nav {
+  float: right;
+}
+
+header img {
+  float: left;
+}
+
+header::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
+  padding: 10px 20px;
+  margin-top: -10px;
+}
+
+.links {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
+.btn {
+  padding: 10px 20px;
+  border: 1px solid white;
+  border-radius: 20px;
+}
+
+.btn:hover {
+  background-color: white;
+  color: #47a1f9;
+  transition: 0.3s;
+}
+
+.flex_wrapper {
+  width: 80%;
+  height: 90vh;
+  margin: auto;
+  display: flex;
+}
+
+.column1_content {
+  flex: 1 1 50%;
+  position: relative;
+}
+
+.column2_content {
+  flex: 1 1 50%;
+}
+
+.column2_content img {
+  height: 100%;
+}
+
+.content {
+  font-size: 140%;
+  width: 75%;
+  position: absolute;
+  top: 35%;
+  color: white;
+}
+
+.content h1 {
+  margin: 0px;
+  text-transform: uppercase;
+}
+
+.content p {
+  margin-top: 10px;
+}
