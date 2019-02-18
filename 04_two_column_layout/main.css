@@ -1,4 +1,7 @@
 body {
+  margin: 0;
+}
+.body {
   height: 100vh;
   width: 100vw;
   margin: 0;
@@ -14,7 +17,6 @@ header {
   width: 90%;
   margin: 20px auto;
 }
-
 nav {
   float: right;
 }
@@ -23,6 +25,7 @@ header img {
   float: left;
 }
 
+header::before,
 header::after {
   content: "";
   display: block;
@@ -54,39 +57,33 @@ nav ul li {
   transition: 0.3s;
 }
 
-.flex_wrapper {
-  width: 80%;
-  height: 90vh;
-  margin: auto;
-  display: flex;
-}
-
-.column1_content {
-  flex: 1 1 50%;
-  position: relative;
-}
-
-.column2_content {
-  flex: 1 1 50%;
-}
-
-.column2_content img {
-  height: 100%;
-}
-
-.content {
+.content{
   font-size: 140%;
-  width: 75%;
-  position: absolute;
-  top: 35%;
   color: white;
 }
 
-.content h1 {
+.content h1{
   margin: 0px;
   text-transform: uppercase;
 }
 
 .content p {
   margin-top: 10px;
+}
+
+.flex_wrapper {
+  width: 80%;
+  height: 90vh;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  align-content: space-between;
+}
+
+.col{
+  width: 50%;
+}
+
+.column2_content img{
+
 }
