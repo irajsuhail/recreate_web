@@ -21,3 +21,9 @@ Mockup design by [Caler Edwards](http://www.caleredwards.com)  |  Responsive: �
 ![Minimal landing page](assets/03_business_landing_page.gif)
 
 Mockup design by [Caler Edwards](http://www.caleredwards.com)  |  Responsive: ❎
+
+----------------------------
+## 04 - Two column layout
+![two_column_layout]()
+
+Mockup design by [Caler Edwards](http://www.caleredwards.com)  |  Responsive: ❎
