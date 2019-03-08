@@ -84,6 +84,10 @@ nav ul li {
   width: 50%;
 }
 
+.column2_content{
+  align-self: flex-end;
+  justify-self: center;
+}
 .column2_content img{
-
+  width: 70%;
 }
